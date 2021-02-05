@@ -19,3 +19,113 @@ https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4299
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Olahraga Terlengkap",(RianTV)Usee Sport1
 http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useesport
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Olahraga Terlengkap",(RianTV)Usee Sport2
+http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useesports2
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Olahraga Terlengkap",(RianTV)CHAMPION TV 1 HD
+http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-champion1
+#EXTINF:-1tvg-logo="https://i.postimg.cc/GpsTP4B0/cam3.png" group-title="Olahraga Terlengkap",(RianTV)CHAMPION TV 2 HD
+http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-champion2
+#EXTINF:-1tvg-logo="https://i.postimg.cc/1502Tw8D/yqvvvx1433963709.png" group-title="Olahraga Terlengkap",(RianTV)BT Sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="hhttps://i.postimg.cc/85VLqJJr/BTSport2-HD.png" group-title="Olahraga Terlengkap",(RianTV)BT Sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV)Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="Olahraga Terlengkap",(RianTV)ARENA SPORT 1
+http://rv.therevenge.co:80/307213231550/307213231550/85183
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="Olahraga Terlengkap",(RianTV)ARENA SPORT 2
+http://rv.therevenge.co:80/307213231550/307213231550/85182
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="Olahraga Terlengkap",(RianTV)ARENA SPORT 3
+http://rv.therevenge.co:80/307213231550/307213231550/85181
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="Olahraga Terlengkap",(RianTV)ARENA SPORT 4
+http://rv.therevenge.co:80/307213231550/307213231550/85180
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="Olahraga Terlengkap",(RianTV)ARENA SPORT 5
+http://rv.therevenge.co:80/307213231550/307213231550/85179
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6610CLTP/XTRA.png" group-title="Olahraga Terlengkap",(RianTV)BEIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Olahraga Terlengkap",(RianTV)On Time 3
+http://rv.therevenge.co:80/307213231550/307213231550/78600
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 1 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85169
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 2 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85168
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 3 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85167
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 4 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85166
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 5 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85165
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 6 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85164
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 7 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85163
+#EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="Olahraga Terlengkap",(RianTV)SUPERSPORT 8 HD
+http://rv.therevenge.co:80/307213231550/307213231550/85162
+#EXTINF:-1tvg-logo="https://i.postimg.cc/jdRGNgD7/RMC-SPORT.png" group-title="Olahraga Terlengkap",(RianTV)RMC SPORT NEWS
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12593
+#EXTINF:-1tvg-logo="https://i.postimg.cc/jdRGNgD7/RMC-SPORT.png" group-title="Olahraga Terlengkap",(RianTV)RMC SPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12592
+#EXTINF:-1tvg-logo="https://i.postimg.cc/jdRGNgD7/RMC-SPORT.png" group-title="Olahraga Terlengkap",(RianTV)RMC SPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12591
+#EXTINF:-1tvg-logo="https://i.postimg.cc/jdRGNgD7/RMC-SPORT.png" group-title="Olahraga Terlengkap",(RianTV)RMC SPORT 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12590
+#EXTINF:-1tvg-logo="https://i.postimg.cc/jdRGNgD7/RMC-SPORT.png" group-title="Olahraga Terlengkap",(RianTV)RMC SPORT 4 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12589
+#EXTINF:-1tvg-logo="https://i.postimg.cc/jdRGNgD7/RMC-SPORT.png" group-title="Olahraga Terlengkap",(RianTV)RMC SPORT LIVE 5 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12588
+#EXTINF:-1tvg-logo="https://i.postimg.cc/FKfgCBFz/Eleven-Sport-1.png" group-title="Olahraga Terlengkap",(RianTV)ELEVEN SPORTS 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4485
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV)DAZN 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/41321
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV)DAZN 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/41322
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR || Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 12 English HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) Bein Sports 13 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) Bein Sports 14 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) Bein Sports 15 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
+#EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby

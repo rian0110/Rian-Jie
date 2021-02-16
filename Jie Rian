@@ -129,3 +129,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
 #EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title=""Olahraga Terlengkap",(RianTV) beIN Sport 1 TR
+http://alontv.info:8000/live/ontvtest/172722/524.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title=""Olahraga Terlengkap",(RianTV) beIN Sport 2 TR
+http://alontv.info:8000/live/ontvtest/172722/525.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title=""Olahraga Terlengkap",(RianTV) beIN Sport 3 TR
+http://alontv.info:8000/live/ontvtest/172722/526.ts?checkedby:iptvcat.net

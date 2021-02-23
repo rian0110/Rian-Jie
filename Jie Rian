@@ -87,14 +87,14 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV)Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png" group-title="Olahraga Terlengkap",(RianTV)ASSP 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD1
+http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD2
+http://190.2.155.140:8278/streams/d/supersport2_pye/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD3
+http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD4
+http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 2

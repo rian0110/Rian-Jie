@@ -167,13 +167,25 @@ http://latvonlive.com:33612/Rico/1234/423
 http://latvonlive.com:33612/Rico/1234/537
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap", (RianTV) Eurosport 1 HD
 http://latvonlive.com:33612/Rico/1234/722
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap " (RianTV) (TR) beIN Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name=" Olahraga Terlengkap Arena Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",Arena Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273358
+#EXTINF:-1 tvg-id="" tvg-name=" Olahraga Terlengkap: Arena Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7ed759a558bd3f3cefb008f47bbe92f5.png" group-title=" Olahraga Terlengkap",Arena Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3462
+#EXTINF:-1 tvg-id="" tvg-name=" Olahraga Terlengkap Arena Sport 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",Arena Sport 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273416
+#EXTINF:-1 tvg-id="" tvg-name=" Olahraga Terlengkap: Arena Sport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9270fcacb400c2e501ffc8eeb82bce87.png" group-title=" Olahraga Terlengkap",Arena Sport 4 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3465
+#EXTINF:-1 tvg-id="" tvg-name=" Olahraga Terlengkap: Arena Sport 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ab5631e4dbbf3901cecd527d9917f895.png" group-title=" Olahraga Terlengkap",Arena Sport 5 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3464
+#EXTINF:-1 tvg-id="" tvg-name=" Olahraga Terlengkap: Arena Sport 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",Arena Sport 6 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/145720
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",beIN Sports 1 HD
 http://tyciptv.site:8080/393e2766/c723f42a/37164
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap " (RianTV) (TR) beIN Sports 2 FHD
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",beIN Sports 2 FHD
 http://tyciptv.site:8080/393e2766/c723f42a/1737
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap " (RianTV) (TR) beIN Sports 3 HD
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",beIN Sports 3 HD
 http://tyciptv.site:8080/393e2766/c723f42a/37167
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap " (RianTV) (TR) beIN Sports 4 HD
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",beIN Sports 4 HD
 http://tyciptv.site:8080/393e2766/c723f42a/7450
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN Sports Haber FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap " (RianTV) (TR) beIN Sports Haber FHD
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN Sports Haber FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Olahraga Terlengkap",beIN Sports Haber FHD
 http://tyciptv.site:8080/393e2766/c723f42a/7448

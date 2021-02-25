@@ -73,16 +73,24 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?hdnts=st=1605439325~exp=1605439445~acl=/i/*~hmac=59c9805c0e2bc3e16f072b05441372ecf1929b1b7fa233a66b36900481e936a5
 #EXTINF:-1tvg-logo="https://i.postimg.cc/cLk86vr2/MNC-SPORTS.png" group-title="Olahraga Terlengkap",(RianTV)MNC SPORTS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4299
-#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Olahraga Terlengkap",(RianTV)Usee Sport1
-http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useesport
-#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Olahraga Terlengkap",(RianTV)Usee Sport2
-http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useesports2
-#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Olahraga Terlengkap",(RianTV)CHAMPION TV 1 HD
-http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-champion1
-#EXTINF:-1tvg-logo="https://i.postimg.cc/GpsTP4B0/cam3.png" group-title="Olahraga Terlengkap",(RianTV)CHAMPION TV 2 HD
-http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-champion2
-#EXTINF:-1tvg-logo="https://i.postimg.cc/1502Tw8D/yqvvvx1433963709.png" group-title="Olahraga Terlengkap",(RianTV)BT Sport 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Olahraga Terlengkap",(RianTV) Usee Sport1
+http://asep-iwan.my.id/premium/useesport.m3u8
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesport
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Olahraga Terlengkap",(RianTV) Usee Sport2
+http://asep-iwan.my.id/premium/useesports2.m3u8
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesports2
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Olahraga Terlengkap",(RianTV) CHAMPION TV 1 HD
+http://asep-iwan.my.id/premium/champion1.m3u8
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion1
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Olahraga Terlengkap",(RianTV) CHAMPION TV 2 HD
+http://asep-iwan.my.id/premium/champion2.m3u8
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion2
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Olahraga Terlengkap",(RianTV) Bein Sport 1 (ID)
+http://asep-iwan.my.id/premium/bein1.m3u8
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein1
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Olahraga Terlengkap",(RianTV) Bein Sport 2 (ID)
+http://asep-iwan.my.id/premium/bein2.m3u8
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein2
 #EXTINF:-1tvg-logo="hhttps://i.postimg.cc/85VLqJJr/BTSport2-HD.png" group-title="Olahraga Terlengkap",(RianTV)BT Sport 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV)Astro Arena

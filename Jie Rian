@@ -197,3 +197,11 @@ http://tyciptv.site:8080/393e2766/c723f42a/37167
 http://tyciptv.site:8080/393e2766/c723f42a/7450
 #EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN Sports Haber FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap",beIN Sports Haber FHD
 http://tyciptv.site:8080/393e2766/c723f42a/7448
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap",IN: Sony SIX HD
+http://iptvtree.net:8080/Line1051/f4fffd47/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap",IN: Sony TEN 1 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/74893
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap",IN: Sony TEN 2 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/56190
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap",IN: Sony TEN 3
+http://iptvtree.net:8080/Line1051/f4fffd47/56191

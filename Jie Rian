@@ -67,6 +67,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV)FoxSport3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOXSPORTS 1" tvg-logo="" group-title="Olahraga Terlengkap",(RianTV)FOXSPORTS 1
+http://207.244.227.225:25461/hoteles/123456/92
+#EXTINF:-1 tvg-id="" tvg-name="FOX ESPRT 1 ULT" tvg-logo="" group-title="Olahraga Terlengkap",(RianTV)FOX ESPRT 1 ULT
+http://207.244.227.225:25461/hoteles/123456/187
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS2 ULT" tvg-logo="" group-title="Olahraga Terlengkap",(RianTV)FOX SPORTS2 ULT
+http://207.244.227.225:25461/hoteles/123456/188
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap",(RianTV)Setanta Ukraina
 https://95-213-224-180.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7176cb92ce7b1f9b40b0.png" group-title="Olahraga Terlengkap",(RianTV)TVRI SPORT

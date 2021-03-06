@@ -103,14 +103,16 @@ https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV)Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD1
-http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD2
-http://190.2.155.140:8278/streams/d/supersport2_pye/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD3
-http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Olahraga Terlengkap",(RianTV) AstroSuperSport HD4
-http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8
+##EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO ARENA HD" tvg-logo="https://banner2.cleanpng.com/20180529/lb/kisspng-astro-arena-television-channel-high-definition-tel-skating-rink-5b0dc8c5c542a9.732307901527630021808.jpg" group-title="Olahraga Terlengkap",(RianTV) ASTRO ARENA HD
+http://starshare.live:8080/live/120120/120120/5479.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 1 HD
+http://starshare.live:8080/live/120120/120120/5480.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 2 HD
+http://starshare.live:8080/live/120120/120120/5481.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 3 HD
+http://starshare.live:8080/live/120120/120120/5482.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 4 HD
+http://starshare.live:8080/live/120120/120120/5483.ts
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 2
@@ -236,4 +238,3 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",(RianTV) Bein Sports 11 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",(RianTV) Bein Sports 12 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8

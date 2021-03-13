@@ -215,6 +215,52 @@ http://iptvtree.net:8080/Line1051/f4fffd47/74893
 http://iptvtree.net:8080/Line1051/f4fffd47/56190
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Olahraga Terlengkap",IN: Sony TEN 3
 http://iptvtree.net:8080/Line1051/f4fffd47/56191
+#EXTINF:-1 tvg-id="bein.sports.news.ae" tvg-name="BN001:BeIN Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN001BeINSportNews.png" group-title="Olahraga Lengkap 2", RianTV01:BeIN Sport News
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2141
+#EXTINF:-1 tvg-id="bein.sports.1hd.ae" tvg-name="BN002:BeIN Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN002BeINSport01.png" group-title="Olahraga Lengkap 2", RianTV02:BeIN Sport 1 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2140
+#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="BN003:BeIN Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN003BeINSport02.png" group-title="Olahraga Lengkap 2", RianTV03:BeIN Sport 2 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2139
+#EXTINF:-1 tvg-id="bein.sports.3.ae" tvg-name="BN004:BeIN Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN004BeINSport03.png" group-title="Olahraga Lengkap 2", RianTV04:BeIN Sport 3 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2138
+#EXTINF:-1 tvg-id="bein.sports.4.ae" tvg-name="BN005:BeIN Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN005BeINSport04.png" group-title="Olahraga Lengkap 2", RianTV05:BeIN Sport 4 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2137
+#EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="BN006:BeIN Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN006BeINSport05.png" group-title="Olahraga Lengkap 2", RianTV06:BeIN Sport 5 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2136
+#EXTINF:-1 tvg-id="bein.sports.6.ae" tvg-name="BN007:BeIN Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN007BeINSport06.png" group-title="Olahraga Lengkap 2", RianTV07:BeIN Sport 6 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2135
+#EXTINF:-1 tvg-id="bein.sports.7.ae" tvg-name="BN008:BeIN Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN008BeINSport07.png" group-title="Olahraga Lengkap 2", RianTV08:BeIN Sport 7 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2134
+#EXTINF:-1 tvg-id="bein.sports.8.ae" tvg-name="BN009:BeIN Sport 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN009BeINSport08.png" group-title="Olahraga Lengkap 2", RianTV09:BeIN Sport 8 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2133
+#EXTINF:-1 tvg-id="bein.sports.9.ae" tvg-name="BN010:BeIN Sport 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN010BeINSport09.png" group-title="Olahraga Lengkap 2", RianTV10:BeIN Sport 9 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2132
+#EXTINF:-1 tvg-id="bein.sports.10.ae" tvg-name="BN011:BeIN Sport 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN011BeINSport10.png" group-title="Olahraga Lengkap 2", RianTV11:BeIN Sport 10 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2131
+#EXTINF:-1 tvg-id="bein.sports.11.ae" tvg-name="BN012:BeIN Sport 11 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN012BeINSport11.png" group-title="Olahraga Lengkap 2", RianTV12:BeIN Sport 11 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2130
+#EXTINF:-1 tvg-id="bein.sports.12.ae" tvg-name="BN013:BeIN Sport 12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN013BeINSport12.png" group-title="Olahraga Lengkap 2", RianTV:BeIN Sport 12 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2129
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR009:Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="Olahraga Terlengkap 2",(RianTV)09:Bein Sport 4 Max
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2857
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR010:Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="Olahraga Terlengkap 2",(RianTV)10:Bein Sport 10 Max
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2856
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR011:Bein Sport 5 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="Olahraga Terlengkap 2",(RianTV)11:Bein Sport 5 Max
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2855
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR012:Bein Sport 6 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="Olahraga Terlengkap 2",(RianTV)12:Bein Sport 6 Max
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2854
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR013:Bein Sport 7 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="Olahraga Terlengkap 2",(RianTV)13:Bein Sport 7 Max
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2853
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR014:Bein Sport 8 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="Olahraga Terlengkap 2",(RianTV)14:Bein Sport 8 Max
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2852
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR015:Bein Sport 9 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="Olahraga Terlengkap 2",(RianTV)15:Bein Sport 9 Max
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2851
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR016:Bein Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png" group-title="Olahraga Terlengkap 2",(RianTV)16:Bein Sport 1
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2850
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR017:Bein Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png" group-title="Olahraga Terlengkap 2",(RianTV)17:Bein Sport 2
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2849
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR018:Bein Sport  3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="Olahraga Terlengkap 2",(RianTV)18:Bein Sport  3
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2848
 #EXTINF:-1 group-title="BEIN SPORTS",(RianTV) Bein Sports 1 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",(RianTV) Bein Sports 2 HD

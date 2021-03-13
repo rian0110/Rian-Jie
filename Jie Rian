@@ -267,6 +267,20 @@ http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2850
 http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2849
 #EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR018:Bein Sport  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="Olahraga Lengkap 2",(RianTV)18:Bein Sport  2
 http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2848
+#EXTINF:-1 tvg-id="" tvg-name="MY032:ARENA" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV) ASTRO ARENA
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/1703
+#EXTINF:-1 tvg-id="" tvg-name="MY037:ASTRO ASSP HD" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)37:ASTRO ASSP HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY038:ASTRO ASSP2 HD" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)38:ASTRO ASSP2 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY039:ASTRO ASSP3 HD" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)39:ASTRO ASSP3 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/59218
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP4 HD" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)40:ASTRO ASSP4 HD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/59217
+#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)beIN SPORTS
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/71104
+#EXTINF:-1 tvg-id="" tvg-name="MY133:bEIN MAX" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV) bEIN MAX
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/71105
 #EXTINF:-1 group-title="BEIN SPORTS",(RianTV) Bein Sports 1 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",(RianTV) Bein Sports 2 HD

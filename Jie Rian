@@ -241,6 +241,12 @@ http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2131
 http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2130
 #EXTINF:-1 tvg-id="bein.sports.12.ae" tvg-name="BN013:BeIN Sport 12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN013BeINSport12.png" group-title="Olahraga Lengkap 2", RianTV:BeIN Sport 12 HD
 http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2129
+#EXTINF:-1 tvg-id="" tvg-name="AU022:beIN Sports 1" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)AUS22:beIN Sports 1
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/61084
+#EXTINF:-1 tvg-id="" tvg-name="AU023:BeIN SPORTS 2 | UHD" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)AUS23:BeIN SPORTS 2 | UHD
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/61085
+#EXTINF:-1 tvg-id="" tvg-name="AU024:beIN Sports 3" tvg-logo="" group-title="Olahraga Lengkap 2",(RianTV)AUS24:beIN Sports 3
+http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/61086
 #EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR009:Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="Olahraga Lengkap 2",(RianTV)09:Bein Sport 4 Max
 http://e8.oknirvana.club:8880/14m22803/5yuMjzHEZ6/2857
 #EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR010:Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="Olahraga Lengkap 2",(RianTV)10:Bein Sport 10 Max

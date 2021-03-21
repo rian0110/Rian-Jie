@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 1 HD PREMIUM
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/1
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 2 HD PREMIUM
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/2
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 3 HD PREMIUM
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/3
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 1 HD
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/4
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 2 HD
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/5
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 3 HD
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/6
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 4 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 4 HD
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/7
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 5 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 5 HD
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 6 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 6 HD
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/9
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 7 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="Olahraga Terlengkap", (RianTV) bein sport 7 HD
+http://51.15.1.11:25461/BEST-LIVE1614/BEST-LIVE1614/10
 #EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 1 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
 #EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) AR ||  Bein Sports 2 HD

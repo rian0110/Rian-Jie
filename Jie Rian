@@ -53,14 +53,12 @@ https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesport
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Olahraga Terlengkap",(RianTV) Usee Sport2
 http://asep-iwan.my.id/premium/useesports2.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesports2
-#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Olahraga Terlengkap",(RianTV) CHAMPION TV 1 HD
-http://asep-iwan.my.id/premium/champion1.m3u8
-https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion1
-#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Olahraga Terlengkap",(RianTV) CHAMPION TV 2 HD
-http://asep-iwan.my.id/premium/champion2.m3u8
-https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion2
-#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Olahraga Terlengkap",(RianTV) Bein Sport 1 (ID)
-http://asep-iwan.my.id/premium/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.f94e4345da4a5c37ca4b98ceac2907fa.SHINTA" tvg-name"[CODAY] Champions TV 1 _VIDIO" group-title="Olahraga Terlengkap", (RianTV) Champions TV 1 _VIDIO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" tvg-id="RIYAN.5798ce6ff30d7091f36ba5281a525e1d.SHINTA" tvg-name"[CODAY] Champions TV 2 _VIDIO" group-title="Olahraga Terlengkap", (RianTV) Champions TV 2 _VIDIO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.878427f65486bcabdef8b0085f410383.SHINTA" tvg-name"[CODAY] Champions TV 3 _VIDIO" group-title="Olahraga Terlengkap", (RianTV) Champions TV 3 _VIDIO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein1
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Olahraga Terlengkap",(RianTV) Bein Sport 2 (ID)
 http://asep-iwan.my.id/premium/bein2.m3u8
@@ -71,14 +69,16 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 ##EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO ARENA HD" tvg-logo="https://banner2.cleanpng.com/20180529/lb/kisspng-astro-arena-television-channel-high-definition-tel-skating-rink-5b0dc8c5c542a9.732307901527630021808.jpg" group-title="Olahraga Terlengkap",(RianTV) ASTRO ARENA HD
 http://starshare.live:8080/live/120120/120120/5479.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 1 HD
-http://starshare.live:8080/live/120120/120120/5480.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 2 HD
-http://starshare.live:8080/live/120120/120120/5481.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 3 HD
-http://starshare.live:8080/live/120120/120120/5482.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="(RianTV) ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="Olahraga Terlengkap",(RianTV) ASTRO SUPER SPORTS 4 HD
-http://starshare.live:8080/live/120120/120120/5483.ts
+##EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap", (RianTV) Astro Arena 2
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap", (RianTV) AstroSport1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap", (RianTV) AstroSport2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap", (RianTV) AstroSport3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Olahraga Terlengkap", (RianTV) AstroSport4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="Olahraga Terlengkap",(RianTV)Sport TV 2

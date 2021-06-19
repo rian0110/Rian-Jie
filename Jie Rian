@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1   tvg-logo="logo" group-title="Olahraga Terlengkap", (RianTV) ESPN HD
-https://gma2.blab.email/fs2.m3u8
+http://164.68.124.111/fs2.m3u8
 #EXTINF:-1   tvg-logo="logo" group-title="Olahraga Terlengkap", (RianTV) ESPN 2 HD
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) Fox Sports News

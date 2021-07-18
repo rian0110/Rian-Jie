@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/net.png" group-title="LOKAL FTA", (RianTV) NET TV
+hhttps://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/trans7.png" group-title="LOKAL FTA", (RianTV) TRANS 7
+https://delivery.serveraku-rasyid.xyz/stream/id_trans7/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="LOKAL FTA", (RianTV) TRANS TV
+https://delivery.serveraku-rasyid.xyz/stream/id_transtv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/rtv.png" group-title="LOKAL FTA", (RianTV) RTV
+https://delivery.serveraku-rasyid.xyz/stream/id_rajawalitv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/antv.png" group-title="LOKAL FTA", (RianTV) ANTV
+https://delivery.serveraku-rasyid.xyz/stream/id_antv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/daaitv.png" group-title="LOKAL FTA", (RianTV) DAAI TV
+https://delivery.serveraku-rasyid.xyz/stream/id_daai/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/atv.png" group-title="LOKAL FTA", (RianTV) ATV
+https://delivery.serveraku-rasyid.xyz/stream/atv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/jtv.png" group-title="LOKAL FTA", (RianTV) JTV
+https://delivery.serveraku-rasyid.xyz/stream/id_jtv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/jaktv.png" group-title="LOKAL FTA", (RianTV) JAK TV
+https://delivery.serveraku-rasyid.xyz/stream/id_jaktv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/balitv.png" group-title="LOKAL FTA", (RianTV) BALI TV
+https://delivery.serveraku-rasyid.xyz/stream/balitv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/tvri.png" group-title="LOKAL FTA", (RianTV) TVRI NASIONAL
+https://delivery.serveraku-rasyid.xyz/stream/id_tvri/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/jowo.png" group-title="LOKAL FTA", (RianTV) JOWO CHANNEL
+https://delivery.serveraku-rasyid.xyz/stream/jowo/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_sports_1.png" group-title="SPORT", (RianTV) FOX SPORT 1
+https://delivery.serveraku-rasyid.xyz/stream/id_foxsport1/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_sports_2.jpg" group-title="SPORT", (RianTV) FOX SPORT 2
+https://delivery.serveraku-rasyid.xyz/stream/id_foxsport2/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_sport_3.jpeg" group-title="SPORT", (RianTV) FOX SPORT 3
+https://delivery.serveraku-rasyid.xyz/stream/id_foxsport3/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fightsport.png" group-title="SPORT", (RianTV) FIGHT SPORT
+https://delivery.serveraku-rasyid.xyz/stream/fightsport/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nbc_golf.png" group-title="SPORT", (RianTV) NBC GOLF
+https://delivery.serveraku-rasyid.xyz/stream/nbc_golf/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/useetv.png" group-title="SPORT", (RianTV) USEESPORT 1
+https://delivery.serveraku-rasyid.xyz/stream/macan_sport_3/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/useetv.png" group-title="SPORT", (RianTV) USEESPORT 2
+https://delivery.serveraku-rasyid.xyz/stream/macan_sport_4/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nbatv.png" group-title="SPORT", (RianTV) NBA TV
+https://delivery.serveraku-rasyid.xyz/stream/nbatv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/egg.png" group-title="SPORT", (RianTV) eGG TV
+https://delivery.serveraku-rasyid.xyz/stream/egg/playlist.m3u8?token=5h9sj&v=20200807

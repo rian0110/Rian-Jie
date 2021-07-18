@@ -71,3 +71,27 @@ https://delivery.serveraku-rasyid.xyz/stream/aljazeera/playlist.m3u8?token=5h9sj
 https://delivery.serveraku-rasyid.xyz/stream/id_bloomberg/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cna.png" group-title="NEWS", (RianTV) CHANNEL NEWS ASIA
 https://delivery.serveraku-rasyid.xyz/stream/id_cna/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/sinema_indonesia.png" group-title="MOVIES", (RianTV) SINEMA INDONESIA
+https://delivery.serveraku-rasyid.xyz/stream/sinema_indonesia/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/galaxy.jpg" group-title="MOVIES", (RianTV) GALAXY
+https://delivery.serveraku-rasyid.xyz/stream/galaxy/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/galaxy_premium.jpg" group-title="MOVIES", (RianTV) GALAXY PREMIUM
+https://delivery.serveraku-rasyid.xyz/stream/galaxy_premium/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/imc.jpg" group-title="MOVIES", (RianTV) IMC
+https://delivery.serveraku-rasyid.xyz/stream/imc/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cinemaworld.png" group-title="MOVIES", (RianTV) CINEMA WORLD
+https://delivery.serveraku-rasyid.xyz/stream/cinemaworld/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png" group-title="MOVIES", (RianTV) BIOSKOP INDONESIA
+https://delivery.serveraku-rasyid.xyz/stream/bioskopindonesia/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png" group-title="MOVIES", (RianTV) FOX MOVIES PREMIUM
+https://delivery.serveraku-rasyid.xyz/stream/id_foxmoviespremium/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png" group-title="MOVIES", (RianTV) FOX ACTION MOVIES
+https://delivery.serveraku-rasyid.xyz/stream/id_foxactionmovies/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIES", (RianTV) FOX FAMILY MOVIES (ENG)
+https://delivery.serveraku-rasyid.xyz/stream/id_foxfamilymovies/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIES", (RianTV) FOX FAMILY MOVIES (IND)
+https://delivery.serveraku-rasyid.xyz/stream/foxfamilymovies_idn/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIES", (RianTV) HBO
+https://delivery.serveraku-rasyid.xyz/stream/hbo/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="logo" group-title="MOVIES", (RianTV) SINEMA INDONESIA
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725

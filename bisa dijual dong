@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/net.png" group-title="LOKAL FTA", (RianTV) NET TV
-hhttps://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=5h9sj&v=20200807
+https://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/trans7.png" group-title="LOKAL FTA", (RianTV) TRANS 7
 https://delivery.serveraku-rasyid.xyz/stream/id_trans7/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="LOKAL FTA", (RianTV) TRANS TV
@@ -41,3 +41,33 @@ https://delivery.serveraku-rasyid.xyz/stream/macan_sport_4/playlist.m3u8?token=5
 https://delivery.serveraku-rasyid.xyz/stream/nbatv/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/egg.png" group-title="SPORT", (RianTV) eGG TV
 https://delivery.serveraku-rasyid.xyz/stream/egg/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cnn.png" group-title="NEWS", (RianTV) CNN INDONESIA
+https://delivery.serveraku-rasyid.xyz/stream/id_cnn/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cnbc.png" group-title="NEWS", (RianTV) CNBC INDONESIA
+https://delivery.serveraku-rasyid.xyz/stream/id_cnbc/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/tvone.png" group-title="NEWS", (RianTV) TVOne
+https://delivery.serveraku-rasyid.xyz/stream/id_tvone/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/kompastv.png" group-title="NEWS", (RianTV) KOMPAS TV
+https://delivery.serveraku-rasyid.xyz/stream/id_kompastv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/metrotv.png" group-title="NEWS", (RianTV) METRO TV
+https://delivery.serveraku-rasyid.xyz/stream/id_metrotv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/beritasatu.png" group-title="NEWS", (RianTV) Berita Satu
+https://delivery.serveraku-rasyid.xyz/stream/id_beritasatu/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/seatoday.png" group-title="NEWS", (RianTV) SEA TODAY
+https://delivery.serveraku-rasyid.xyz/stream/seatoday/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/antaratv.jpg" group-title="NEWS", (RianTV) ANTARA TV
+https://delivery.serveraku-rasyid.xyz/stream/antaratv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/bbc_world_news.png" group-title="NEWS", (RianTV) BBC WORLD NEWS
+https://delivery.serveraku-rasyid.xyz/stream/id_bbcworldnews/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nhk_world.png" group-title="NEWS", (RianTV) NHK WORLD JAPAN
+https://delivery.serveraku-rasyid.xyz/stream/id_nhkworld/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cnninternational.png" group-title="NEWS", (RianTV) CNN INTERNATIONAL
+https://delivery.serveraku-rasyid.xyz/stream/cnninternational/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/dw.png" group-title="NEWS", (RianTV) DW
+https://delivery.serveraku-rasyid.xyz/stream/dw/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/aljazeera.png" group-title="NEWS", (RianTV) AL JAZEERA
+https://delivery.serveraku-rasyid.xyz/stream/aljazeera/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/bloomberg.png" group-title="NEWS", (RianTV) BLOOMBERG
+https://delivery.serveraku-rasyid.xyz/stream/id_bloomberg/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cna.png" group-title="NEWS", (RianTV) CHANNEL NEWS ASIA
+https://delivery.serveraku-rasyid.xyz/stream/id_cna/playlist.m3u8?token=5h9sj&v=20200807

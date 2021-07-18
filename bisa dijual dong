@@ -93,5 +93,83 @@ https://delivery.serveraku-rasyid.xyz/stream/id_foxfamilymovies/playlist.m3u8?to
 https://delivery.serveraku-rasyid.xyz/stream/foxfamilymovies_idn/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIES", (RianTV) HBO
 https://delivery.serveraku-rasyid.xyz/stream/hbo/playlist.m3u8?token=5h9sj&v=20200807
-#EXTINF:-1   tvg-logo="logo" group-title="MOVIES", (RianTV) SINEMA INDONESIA
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/hbo_family.png" group-title="MOVIES", (RianTV) HBO FAMILY
+https://delivery.serveraku-rasyid.xyz/stream/hbo_family/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/hbo_hits.png" group-title="MOVIES", (RianTV) HBO HITS
+https://delivery.serveraku-rasyid.xyz/stream/hbo_hits/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/hbo_signature.png" group-title="MOVIES", (RianTV) HBO SIGNATURE
+https://delivery.serveraku-rasyid.xyz/stream/hbo_signature/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cinemaxa.png" group-title="MOVIES", (RianTV) CINEMAX BY HBO
+https://delivery.serveraku-rasyid.xyz/stream/cinemax/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/flik.png" group-title="MOVIES", (RianTV) FLIK
+https://delivery.serveraku-rasyid.xyz/stream/flik/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/thrill.png" group-title="MOVIES", (RianTV) THRILL
+https://delivery.serveraku-rasyid.xyz/stream/thrill/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/hits_movies.png" group-title="MOVIES", (RianTV) HITS MOVIES
+https://delivery.serveraku-rasyid.xyz/stream/hits_movies/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/tvmu.png" group-title="RELIGION", (RianTV) tvMU
+https://delivery.serveraku-rasyid.xyz/stream/tvmu/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/tv9.png" group-title="RELIGION", (RianTV) tv9 NUSANTARA
+https://delivery.serveraku-rasyid.xyz/stream/tv9/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/mtatv.jpg" group-title="RELIGION", (RianTV) MTA TV
+https://delivery.serveraku-rasyid.xyz/stream/mtatv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/aqak.jpg" group-title="RELIGION", (RianTV) AL QURAN AL KAREEM TV
+https://delivery.serveraku-rasyid.xyz/stream/aqak/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/rodjatv.png" group-title="RELIGION", (RianTV) RODJA TV
+https://delivery.serveraku-rasyid.xyz/stream/rodjatv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/hopechannel.png" group-title="RELIGION", (RianTV) HOPE CHANNEL
+https://delivery.serveraku-rasyid.xyz/stream/hopechannel/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/uchannel.png" group-title="RELIGION", (RianTV) U CHANNEL
+https://delivery.serveraku-rasyid.xyz/stream/uchannel/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/tawaftv.jpg" group-title="RELIGION", (RianTV) TAWAF TV
+https://delivery.serveraku-rasyid.xyz/stream/tawaftv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/citra_dangdut.png" group-title="LOKAL PREMIUM", (RianTV) CITRA DANGDUT
+https://delivery.serveraku-rasyid.xyz/stream/citra_dangdut/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/citra_drama.png" group-title="LOKAL PREMIUM", (RianTV) CITRA DRAMA
+https://delivery.serveraku-rasyid.xyz/stream/citra_drama/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/dunialain.png" group-title="LOKAL PREMIUM", (RianTV) DUNIA LAIN
+https://delivery.serveraku-rasyid.xyz/stream/dunialain/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/disneychannel.png" group-title="KIDS", (RianTV) DINEY CHANNEL (ENG)
+https://delivery.serveraku-rasyid.xyz/stream/disneychannel_en/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/disneychannel.png" group-title="KIDS", (RianTV) DISNEY CHANNEL (IDN)
+https://delivery.serveraku-rasyid.xyz/stream/disneychannel_id/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/disneyjunior.png" group-title="KIDS", (RianTV) DISNEY JUNOR (ENG)
+https://delivery.serveraku-rasyid.xyz/stream/disneyjunior_en/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/disneyjunior.png" group-title="KIDS", (RianTV) DISNEY JUNIOR (IDN)
+https://delivery.serveraku-rasyid.xyz/stream/disneyjunior_id/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png" group-title="KIDS", (RianTV) CARTOON NETWORK (ENG)
+https://delivery.serveraku-rasyid.xyz/stream/cartoonnetwork_en/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png" group-title="KIDS", (RianTV) CARTOON NETWORK (IDN)
+https://delivery.serveraku-rasyid.xyz/stream/cartoonnetwork_id/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/dreamworks.png" group-title="KIDS", (RianTV) DREAMWORKS (IDN)
+https://delivery.serveraku-rasyid.xyz/stream/dreamworks_id/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/dreamworks.png" group-title="KIDS", (RianTV) DREAMWORKS (ENG)
+https://delivery.serveraku-rasyid.xyz/stream/dreamworks_en/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/boomerang.png" group-title="KIDS", (RianTV) BOOMERANG
+https://delivery.serveraku-rasyid.xyz/stream/boomerang/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nickelodeon.png" group-title="KIDS", (RianTV) NICKELODEO (IDN)
+https://delivery.serveraku-rasyid.xyz/stream/nickelodeon_id/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nickelodeon.png" group-title="KIDS", (RianTV) NICKELODEON (ENG)
+https://delivery.serveraku-rasyid.xyz/stream/nickelodeon_en/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nickjr.png" group-title="KIDS", (RianTV) NICK JR. (IDN)
+https://delivery.serveraku-rasyid.xyz/stream/nickjr_id/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nickjr.png" group-title="KIDS", (RianTV) NICK JR. (ENG)
+https://delivery.serveraku-rasyid.xyz/stream/nickjr_en/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/babytv.png" group-title="KIDS", (RianTV) BabyTV
+https://delivery.serveraku-rasyid.xyz/stream/babytv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/horee.png" group-title="KIDS", (RianTV) HOREE
+https://delivery.serveraku-rasyid.xyz/stream/horee/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/lingua.png" group-title="KIDS", (RianTV) LINGUA
+https://delivery.serveraku-rasyid.xyz/stream/lingua/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/zoomoo.png" group-title="KIDS", (RianTV) ZOOMOO
+https://delivery.serveraku-rasyid.xyz/stream/zoomoo/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/duniaanak.png" group-title="KIDS", (RianTV) DUNIA ANAK
+https://delivery.serveraku-rasyid.xyz/stream/duniaanak/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/mykidz.jpg" group-title="KIDS", (RianTV) MY KIDZ
+https://delivery.serveraku-rasyid.xyz/stream/mykidz/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/davinci.png" group-title="KIDS", (RianTV) DA VINCI
+https://delivery.serveraku-rasyid.xyz/stream/davinci/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/babyfirst.jpg" group-title="KIDS", (RianTV) BABY FIRST
+https://delivery.serveraku-rasyid.xyz/stream/babyfirst/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="logo" group-title="KIDS", (RianTV) SINEMA INDONESIA
+

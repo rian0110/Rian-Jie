@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1   tvg-logo="logo" group-title="Olahraga Terlengkap", (RianTV) ESPN HD
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
-#EXTINF:-1   tvg-logo="logo" group-title="Olahraga Terlengkap", (RianTV) ESPN 2 HD
-https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1   tvg-logo="logo" group-title="Olahraga Terlengkap", (RianTV) NET TV
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1   tvg-logo="logo" group-title="Olahraga Terlengkap", (RianTV) INDOSIAR
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #EXTINF:0 logo="logo" group-title="Olahraga Terlengkap",(RianTV) Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
 #EXTINF:-1 tvg-id="" tvg-name="NBCSPORT ULT" tvg-logo="" group-title="Olahraga Terlengkap",(RianTV)NBCSPORT ULT

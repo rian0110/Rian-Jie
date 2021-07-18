@@ -259,12 +259,12 @@ https://delivery.serveraku-rasyid.xyz/stream/tvn_movies/playlist.m3u8?token=5h9s
 https://delivery.serveraku-rasyid.xyz/stream/kbs_world/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/kplus.png" group-title="KOREA", (RianTV) K+
 https://delivery.serveraku-rasyid.xyz/stream/kplus/playlist.m3u8?token=5h9sj&v=20200807
-#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/gem.jpg" group-title="KOREA", (RianTV) SINEMA INDONESIA
-https://delivery.serveraku-rasyid.xyz/stream/id_gem/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/wakuwaku.png" group-title="JAPAN", (RianTV) WAKU WAKU JAPAN
 https://delivery.serveraku-rasyid.xyz/stream/wakuwaku/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nwp.png" group-title="JAPAN", (RianTV) NHK World Premium
 https://delivery.serveraku-rasyid.xyz/stream/nwp/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/gem.jpg" group-title="JAPAN", (RianTV) SONY GEM
+https://delivery.serveraku-rasyid.xyz/stream/id_gem/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/scmlegend.jpeg" group-title="CHINESE", (RianTV) SCM LEGEND
 https://delivery.serveraku-rasyid.xyz/stream/scmlegend/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/formosa.png" group-title="CHINESE", (RianTV) FORMOSA

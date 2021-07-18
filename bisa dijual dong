@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/net.png" group-title="LOKAL FTA", (RianTV) NET TV
 https://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/indosiar.png" group-title="LOKAL FTA", (RianTV) INDOSIAR
+https://delivery.serveraku-rasyid.xyz/stream/id_indosiar/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/sctv.png" group-title="LOKAL FTA", (RianTV) SCTV
+https://delivery.serveraku-rasyid.xyz/stream/id_sctv/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/rcti.jpg" group-title="LOKAL FTA", (RianTV) RCTI
+https://delivery.serveraku-rasyid.xyz/stream/rcti/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/gtv.png" group-title="LOKAL FTA", (RianTV) GTV
+https://delivery.serveraku-rasyid.xyz/stream/gtv/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/mnctv.png" group-title="LOKAL FTA", (RianTV) MNCTV
+https://delivery.serveraku-rasyid.xyz/stream/mnctv/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/inews.png" group-title="LOKAL FTA", (RianTV) iNEWS TV
+https://delivery.serveraku-rasyid.xyz/stream/inewstv/playlist.m3u8?token=pwkjv&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/trans7.png" group-title="LOKAL FTA", (RianTV) TRANS 7
 https://delivery.serveraku-rasyid.xyz/stream/id_trans7/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="LOKAL FTA", (RianTV) TRANS TV
@@ -29,6 +41,28 @@ https://delivery.serveraku-rasyid.xyz/stream/id_foxsport1/playlist.m3u8?token=5h
 https://delivery.serveraku-rasyid.xyz/stream/id_foxsport2/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fox_sport_3.jpeg" group-title="SPORT", (RianTV) FOX SPORT 3
 https://delivery.serveraku-rasyid.xyz/stream/id_foxsport3/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/bein_sports_1.png" group-title="SPORT", (RianTV) BEIN SPORT 1 ID
+https://delivery.serveraku-rasyid.xyz/stream/macan_sport_1/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/bein_sports_2.png" group-title="SPORT", (RianTV) BEIN SPORT 2 ID
+https://delivery.serveraku-rasyid.xyz/stream/macan_sport_2/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/champions1.png" group-title="SPORT", (RianTV) CHAMPIONS 1 TV
+https://delivery.serveraku-rasyid.xyz/stream/macan_sport_5/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/champions2.png" group-title="SPORT", (RianTV) CHAMPIONS 2 TV
+https://delivery.serveraku-rasyid.xyz/stream/macan_sport_6/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/arena.png" group-title="SPORT", (RianTV) ASTRO ARENA
+https://delivery.serveraku-rasyid.xyz/stream/arena/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/assp.png" group-title="SPORT", (RianTV) ASTRO SUPERSPORT 1
+https://delivery.serveraku-rasyid.xyz/stream/assp1/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/assp2.png" group-title="SPORT", (RianTV) ASTRO SUPERSPORT 2
+https://delivery.serveraku-rasyid.xyz/stream/assp2/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/assp3.png" group-title="SPORT", (RianTV) ASTRO SUPERSPORT 3
+https://delivery.serveraku-rasyid.xyz/stream/assp3/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/assp4.png" group-title="SPORT", (RianTV) ASTRO SUPERSPORT 4
+https://delivery.serveraku-rasyid.xyz/stream/assp4/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="lhttps://cdn.macan.tv/img/assp.png" group-title="SPORT", (RianTV) ASSP EURO 1
+https://delivery.serveraku-rasyid.xyz/stream/assp_euro1/playlist.m3u8?token=pwkjv&v=20200807
+#EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/assp.png" group-title="SPORT", (RianTV) ASSP EURO 2
+https://delivery.serveraku-rasyid.xyz/stream/assp_euro2/playlist.m3u8?token=pwkjv&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/fightsport.png" group-title="SPORT", (RianTV) FIGHT SPORT
 https://delivery.serveraku-rasyid.xyz/stream/fightsport/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nbc_golf.png" group-title="SPORT", (RianTV) NBC GOLF
@@ -40,7 +74,7 @@ https://delivery.serveraku-rasyid.xyz/stream/macan_sport_4/playlist.m3u8?token=5
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/nbatv.png" group-title="SPORT", (RianTV) NBA TV
 https://delivery.serveraku-rasyid.xyz/stream/nbatv/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/egg.png" group-title="SPORT", (RianTV) eGG TV
-https://delivery.serveraku-rasyid.xyz/stream/egg/playlist.m3u8?token=5h9sj&v=20200807
+https://delivery.serveraku-rasyid.xyz/stream/egg/playlist.m3u8?token=pwkjv&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cnn.png" group-title="NEWS", (RianTV) CNN INDONESIA
 https://delivery.serveraku-rasyid.xyz/stream/id_cnn/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/cnbc.png" group-title="NEWS", (RianTV) CNBC INDONESIA

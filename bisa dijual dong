@@ -339,3 +339,42 @@ https://delivery.serveraku-rasyid.xyz/stream/astro_citra/playlist.m3u8?token=5h9
 https://delivery.serveraku-rasyid.xyz/stream/astro_bollyone/playlist.m3u8?token=5h9sj&v=20200807
 #EXTINF:-1   tvg-logo="https://cdn.macan.tv/img/astro_vinmeen.png" group-title="MALAYSIA", (RianTV) ASTRO VINMEEN
 https://delivery.serveraku-rasyid.xyz/stream/astro_vinmeen/playlist.m3u8?token=5h9sj&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhvWZ1t/Pics-Art-02-20-06-41-57.png" group-title="VOD Box Office", BONUS 3 BULAN!
+http://rosyid004.com/cdnnoticeku.mp4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhvWZ1t/Pics-Art-02-20-06-41-57.png" group-title="Film Indonesia", BONUS 3 BULAN! 
+http://rosyid004.com/cdnnoticeku.mp4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhvWZ1t/Pics-Art-02-20-06-41-57.png" group-title="Series", BONUS 3 BULAN! 
+http://rosyid004.com/cdnnoticeku.mp4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhvWZ1t/Pics-Art-02-20-06-41-57.png" group-title="Tambahan CH", BONUS 3 BULAN! 
+http://rosyid004.com/cdnnoticeku.mp4 
+
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/362-35143281so.jpg" group-title="VOD Box Office",60 Seconds to Di3 (2021) 
+http://admin.nf21.net/go/files/17807 #EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/226-tt3986420.jpg" group-title="VOD Box Office",Trust (2021) 
+http://admin.nf21.net/go/files/17805 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/421-tt9620292.jpg" group-title="VOD Box Office",Promising Young Woman (2020) 
+http://admin.nf21.net/go/files/17803 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/273-tt8633462.jpg" group-title="VOD Box Office",Quo vadis Aida (2020) 
+http://admin.nf21.net/go/files/17804 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/905-tt10660954.jpg" group-title="VOD Box Office",Sacrilege (2020) 
+http://admin.nf21.net/go/files/17802 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/754-tt4439620.jpg" group-title="VOD Box Office",Redemption Day (2021) 
+http://admin.nf21.net/go/files/17801 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/775-tt13893464.jpg" group-title="VOD Box Office",New Year Blues (2021)
+http://admin.nf21.net/go/files/17800 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/419-tt8747160.jpg" group-title="VOD Box Office",The Block Island Sound (2020)
+http://admin.nf21.net/go/files/17787 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/945-tt13393728.jpg" group-title="VOD Box Office",The Con Heartist (2020)
+http://admin.nf21.net/go/files/17786 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/294-tt13439250.jpg" group-title="VOD Box Office",The Singer (2020) 
+http://admin.nf21.net/go/files/17785 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/191-tt8806252.jpg" group-title="VOD Box Office",The Wager (2020) 
+http://admin.nf21.net/go/files/17798 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/494-tt14029990-2.jpg" group-title="VOD Box Office",Hell Hath No Fury (2021)
+http://admin.nf21.net/go/files/17783 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/153-tt9130508.jpg" group-title="VOD Box Office",Cherry (2021) 
+http://admin.nf21.net/go/files/17758 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/6-tt11210032.jpg" group-title="VOD Box Office",Sheep Without a Shepherd (2019)
+http://admin.nf21.net/go/files/17757 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/410-tt11505692.jpg" group-title="VOD Box Office",tay Out of the Fking Attic (2020) 
+http://admin.nf21.net/go/files/17756 
+#EXTINF:-1 tvg-logo="https://img2.nf21.net/uploads/2021/03/397-tt10888824.jpg" group-title="VOD Box Office",Teddy (2021) http://admin.nf21.net/go/files/17755

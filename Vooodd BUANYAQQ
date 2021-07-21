@@ -1548,3 +1548,23 @@ http://gpc.my.id/vidio/tv-edukasi.m3u8
 http://gpc.my.id/vidio/love-nature.m3u8 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="Tambahan CH",cgtndocumentary_USEE 
 http://gpc.my.id/usee/cgtndocumentary.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 01" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 01
+http://iptv.lancartech.co.id:8080/0925/0925/62471 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 02" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 02
+http://iptv.lancartech.co.id:8080/0925/0925/62472 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 03" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 03
+http://iptv.lancartech.co.id:8080/0925/0925/62473 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 04" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 04
+http://iptv.lancartech.co.id:8080/0925/0925/62474 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 05" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 05
+http://iptv.lancartech.co.id:8080/0925/0925/62475 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 06" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 06
+http://iptv.lancartech.co.id:8080/0925/0925/62476 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 07" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 07
+http://iptv.lancartech.co.id:8080/0925/0925/62477 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 08" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 08
+http://iptv.lancartech.co.id:8080/0925/0925/62478 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 09" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 09
+http://iptv.lancartech.co.id:8080/0925/0925/62479 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMP 10" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 10
+http://iptv.lancartech.co.id:8080/0925/0925/62480

@@ -1548,7 +1548,7 @@ http://gpc.my.id/vidio/tv-edukasi.m3u8
 http://gpc.my.id/vidio/love-nature.m3u8 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="Tambahan CH",cgtndocumentary_USEE 
 http://gpc.my.id/usee/cgtndocumentary.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMP 01" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 01
+#EXTINF:-1 tvg-id="olymp" tvg-name="OLYMP 01" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 01
 http://iptv.lancartech.co.id:8080/0925/0925/62471 
 #EXTINF:-1 tvg-id="" tvg-name="OLYMP 02" tvg-logo="" group-title="OLY TOKYO 2020",OLYMP 02
 http://iptv.lancartech.co.id:8080/0925/0925/62472 

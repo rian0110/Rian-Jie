@@ -1396,14 +1396,6 @@ https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-9WUYxOA8uFo/X1A98Wvk_KI/AAAAAAAAC64/i7Valm602WQufb1IrbzXtNuOu6IZzCoFgCLcBGAsYHQ/s400/Logo%2BiNews%2BTV.png" group-title="Tambahan CH",Inews TV V+ 
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus-avc1_499968=4-mp4a_66000_eng=2.m3u8 
 #EXTM3U ############################################################ 
-#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 1 MY
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/23453
-#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 2 MY
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/23452
-#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 3 MY
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/23451
-#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 4 MY
-http://159.192.73.198:1072/astro4
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="Tambahan CH",useeinfo_USEE 
 http://gpc.my.id/usee/useeinfo.m3u8 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="Tambahan CH",useephoto_USEE 
@@ -1479,6 +1471,14 @@ http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://gpc.my.id/vidio/champion-tv-2.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" tvg-id="BathokGpc" tvg-name="champion-tv-3" group-title="Tambahan CH",champion-tv-3 
 http://gpc.my.id/vidio/champion-tv-3.m3u8 
+#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 1 MY
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/23453
+#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 2 MY
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/23452
+#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 3 MY
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/23451
+#EXTINF:-1 group-title="Tambahan CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 4 MY
+http://159.192.73.198:1072/astro4
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="tvn" group-title="Tambahan CH",tvn 
 http://gpc.my.id/vidio/tvn.m3u8 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="Tambahan CH",zee-bioskop 

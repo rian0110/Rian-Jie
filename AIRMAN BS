@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,|AR| BEIN SPORT NEWS HD
+#EXTINF:0 logo="logo" group-title="BEIN SPORT AIRMAX"|AR| BEIN SPORT NEWS HD
 http://65.21.32.185:80/airmaxtvbenPP/UkhRQh2chF/794
 #EXTINF:-1,|AR| BEINSPORTS HD
 http://65.21.32.185:80/airmaxtvbenPP/UkhRQh2chF/795
